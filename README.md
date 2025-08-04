@@ -63,3 +63,10 @@ Below is a preview of the PCB design:
 
 ---
 > 💡 **Tip:** This board is ideal for use in embedded prototyping platforms, USB device development, or wearable tech applications.
+
+
+## Credits
+
+This project was made possible thanks to the help of a **detailed tutorial** by **Robert Feranec**.  
+You can find the original project and more information here:  
+👉 [https://github.com/FEDEVEL/esp32-with-usbc](https://github.com/FEDEVEL/esp32-with-usbc)
