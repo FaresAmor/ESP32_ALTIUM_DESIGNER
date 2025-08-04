@@ -55,7 +55,7 @@ Feel free to explore, modify, and contribute! 🚀
 ## Demo
 Below is a preview of the PCB design:
 
-![Demo](https://github.com/FaresAmor/ESP32_ALTIUM_DESIGNER/blob/4cfcde4b72fb911c272eef27f09f3655356c5e9f/vedio.mp4)
+![Demo](https://github.com/FaresAmor/ESP32_ALTIUM_DESIGNER/blob/main/vedio.gif)
 
 
 ---
