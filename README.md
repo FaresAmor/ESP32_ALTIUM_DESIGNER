@@ -40,7 +40,13 @@ The board is designed using **Altium Designer** for embedded applications that r
    - The **native USB-C** port (DFU mode)
    - The **FTDI UART USB-C** port with flashing tool
 
+## TOP
 
+![Image Alt](https://github.com/FaresAmor/HARDWARE-Design/blob/403708126704611446c14cd4ab31e6370bbe946b/Reg.png)
+
+## BOTTOM
+
+![Image Alt](https://github.com/FaresAmor/HARDWARE-Design/blob/403708126704611446c14cd4ab31e6370bbe946b/Reg.png)
 
 ## Contribution
 Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
@@ -48,10 +54,7 @@ Feel free to explore, modify, and contribute! If you find any issues or improvem
 
 
 
-Feel free to explore, modify, and contribute! 🚀
 
-
-![Image Alt](https://github.com/FaresAmor/HARDWARE-Design/blob/403708126704611446c14cd4ab31e6370bbe946b/Reg.png)
 ## Demo
 Below is a preview of the PCB design:
 
