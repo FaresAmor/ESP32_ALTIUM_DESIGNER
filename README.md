@@ -44,10 +44,21 @@ The board is designed using **Altium Designer** for embedded applications that r
 Contributions and improvements are welcome!  
 Fork the repo, submit issues, or open a pull request to help enhance the design. 🚀
 
-## Demo
-Here’s a preview of the ESP32-S3 4-layer dual USB-C board:
+## Contribution
+Feel free to explore, modify, and contribute! If you find any issues or improvements, open a pull request or raise an issue. 🚀
 
-![Board Preview](https://github.com/FaresAmor/HARDWARE-Design/blob/main/esp32s3_4layer_dualusb.png)
+
+
+
+Feel free to explore, modify, and contribute! 🚀
+
+
+![Image Alt](https://github.com/FaresAmor/HARDWARE-Design/blob/403708126704611446c14cd4ab31e6370bbe946b/Reg.png)
+## Demo
+Below is a preview of the PCB design:
+
+![Demo](https://github.com/FaresAmor/HARDWARE-Design/blob/main/reg.gif)
+
 
 ---
 > 💡 **Tip:** This board is ideal for use in embedded prototyping platforms, USB device development, or wearable tech applications.
